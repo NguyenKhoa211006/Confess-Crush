@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Thayloimuonoi",
+    titleWeb: "merrychristmas",
     introTitle: 'HNguyen',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Chúc cậu giáng sinh dzui dẻ, thi thiệt tốt và luôn luôn xinh đẹp🥰.`,
     btnIntro: '^^HiHi^^',
-    title: 'Mùa đông gió lạnh tràn về🥰',
-    desc: 'Nơi bình yên nhất là dề bên taoooo😘 ',
+    title: 'Noel tớ vẫn một mình🥰',
+    desc: 'Nếu cậu cũng thế thì mình thành đôiiii😘 ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Có mún chơi j đó khum',
+    question: 'Thấy quà tớ làm phép cho cậu đc hăm!!!!!',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Muốn chơi lắm mà chơi caro điiiiii',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'Rất là okkk nun',
+    mess: 'Biết mà. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'M E R R Y C H R I S T MA S🥰🥰🥰🥰',
+    btnAccept: 'Thanks cậu nha <3😘',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
